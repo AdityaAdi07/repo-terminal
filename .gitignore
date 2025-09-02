@@ -1,2 +1,20 @@
 
 backend/api/forms/credentials.json
+
+backend/api/forms/credentials.json
+
+backend/api/forms/forms.controller.js
+
+backend/api/mail/email.js
+
+backend/utils/sendMail.js
+
+admin-frontend/components/comThreadLayout/index.jsx
+
+admin-frontend/components/common/ParentImageUpload.js
+
+admin-frontend/components/community/home/CreatePost.js
+
+frontend/components/common/CreatePost.js
+
+frontend/components/common/ParentImageUpload.js
